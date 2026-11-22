@@ -1,0 +1,44 @@
+class_id,full_count,selected,class_name
+2,2250,True,Speed limit (50km/h)
+1,2220,False,Not selected
+13,2160,True,Yield
+12,2100,True,Priority road
+38,2070,False,Not selected
+10,2010,False,Not selected
+4,1980,False,Not selected
+5,1860,False,Not selected
+25,1500,False,Not selected
+9,1470,False,Not selected
+7,1440,False,Not selected
+3,1410,False,Not selected
+8,1410,False,Not selected
+11,1320,False,Not selected
+18,1200,False,Not selected
+35,1200,False,Not selected
+17,1110,False,Not selected
+14,780,True,Stop
+31,780,False,Not selected
+33,689,False,Not selected
+15,630,False,Not selected
+26,600,False,Not selected
+28,540,False,Not selected
+23,510,False,Not selected
+30,450,False,Not selected
+34,420,False,Not selected
+6,420,False,Not selected
+16,420,False,Not selected
+22,390,False,Not selected
+36,390,False,Not selected
+40,360,False,Not selected
+20,360,False,Not selected
+21,330,False,Not selected
+39,300,False,Not selected
+29,270,False,Not selected
+24,270,False,Not selected
+42,240,False,Not selected
+32,240,False,Not selected
+27,240,True,Pedestrians
+41,240,False,Not selected
+0,210,False,Not selected
+19,210,False,Not selected
+37,210,False,Not selected

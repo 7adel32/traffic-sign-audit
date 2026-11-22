@@ -1,0 +1,9 @@
+numpy>=1.26.0
+pandas>=2.0.0
+matplotlib>=3.8.0
+opencv-python>=4.8.0
+pillow>=10.0.0
+pyarrow>=14.0.0
+huggingface-hub>=0.20.0
+jupyter>=1.0.0
+ipykernel>=6.0.0

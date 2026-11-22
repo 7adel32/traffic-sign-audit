@@ -1,0 +1,6 @@
+class_id,class_name,count,min_dim_mean,min_dim_median,area_mean,brightness_mean,brightness_median,brightness_std,contrast_mean,contrast_median,contrast_std,sharpness_mean,sharpness_median,sharpness_std
+27,Pedestrians,240,53.5,47.5,3662.82,81.42,82.92,25.31,46.73,50.72,18.27,2373.48,1407.18,2117.51
+12,Priority road,500,52.4,46.0,3364.3,94.46,86.15,48.87,42.15,41.98,24.66,1643.88,1160.78,1648.38
+2,Speed limit (50km/h),500,44.88,39.0,2484.59,102.79,93.24,46.79,45.01,45.61,20.22,4084.35,2686.01,4097.71
+13,Yield,500,54.55,47.0,3927.62,101.55,97.85,52.44,46.36,46.3,25.21,2123.96,1159.24,2648.22
+14,Stop,500,65.74,55.0,5696.48,106.97,105.0,37.48,51.96,53.72,17.82,2846.31,2075.3,2451.74

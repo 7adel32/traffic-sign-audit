@@ -1,0 +1,6 @@
+class_id,class_name,full_count,sampled_count
+2,Speed limit (50km/h),2250,500
+13,Yield,2160,500
+12,Priority road,2100,500
+14,Stop,780,500
+27,Pedestrians,240,240

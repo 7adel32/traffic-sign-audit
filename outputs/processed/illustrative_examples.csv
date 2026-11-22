@@ -1,0 +1,4 @@
+image_id,image_path,class_id,class_name,width,height,min_dim,image_area,aspect_ratio,roi_used,brightness,contrast,sharpness,flag_blurry,flag_dark,flag_bright,flag_low_contrast,issue_count,priority_level,needs_review,flag_reasons,example_role
+18997,data/gtsrb/images/00012/18997.png,12,Priority road,42,44,42,1848,0.9545,True,19.0046,5.1863,13.8654,True,True,False,True,3,High,True,"blurry, dark, low_contrast",1. High Priority (Multi-Defect)
+20584,data/gtsrb/images/00013/20584.png,13,Yield,33,27,27,891,1.2222,True,187.483,63.108,18511.7556,False,False,True,False,1,Medium,True,overbright,2. Medium Priority (Single-Flag / Potential False Alarm)
+4838,data/gtsrb/images/00002/04838.png,2,Speed limit (50km/h),32,32,32,1024,1.0,True,93.2814,39.2444,2276.4128,False,False,False,False,0,Normal,False,none,3. Normal Reference (Unflagged)

@@ -1,0 +1,9 @@
+method,feature,brightness,contrast,sharpness,image_area
+pearson,brightness,1.0,0.735,0.553,0.121
+pearson,contrast,0.735,1.0,0.491,0.257
+pearson,sharpness,0.553,0.491,1.0,-0.229
+pearson,image_area,0.121,0.257,-0.229,1.0
+spearman,brightness,1.0,0.783,0.679,0.079
+spearman,contrast,0.783,1.0,0.63,0.254
+spearman,sharpness,0.679,0.63,1.0,-0.261
+spearman,image_area,0.079,0.254,-0.261,1.0
